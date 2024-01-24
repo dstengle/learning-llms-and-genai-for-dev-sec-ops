@@ -1,0 +1,11 @@
+{
+  "recurse": true,
+  "verbosity": "error",
+  "timeout": 0,
+  "markdown": true,
+  "directoryListing": true,
+  "retry": true,
+  "retryErrors": true,
+  "retryErrorsCount": 3,
+  "skip": "^(https://.*github.com),(/tags/)"
+}
